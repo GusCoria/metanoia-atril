@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Caché del compilador de Kotlin
+.kotlin/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Firma y credenciales: NUNCA versionar
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.hprof

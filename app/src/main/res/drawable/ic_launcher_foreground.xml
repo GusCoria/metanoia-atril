@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Marcador provisional: libro abierto simple. Sustituir por el icono definitivo. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,36 L52,40 L52,74 L30,70 Z M78,36 L56,40 L56,74 L78,70 Z" />
+</vector>
